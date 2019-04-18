@@ -1,7 +1,3 @@
-#Lobna Mtet
-#Xiaochun Kuang
-#Oluwole Awoyiola
-
 
 #read data. please set working director to where you save the data file
 Risk<-read.table("Risk.txt",head=TRUE, sep = "\t")
