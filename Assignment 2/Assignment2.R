@@ -1,6 +1,3 @@
-#Group Work
-#Lobna Mtet
-#Xiaochun Kuang
 
 #Q1) Please read SmallSample.csv data and create a data frame variable call smallsample.
 smallsample<- read.csv("SmallSample.csv", header = TRUE)
