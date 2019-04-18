@@ -1,6 +1,3 @@
-#Lobna Mtet
-#Xiaochun Kuang
-#Oluwole Awoyiola
 
 #Q1) Please read Risk.txt data.
 myTable<-read.table("Risk.txt",header = TRUE,sep="\t")
